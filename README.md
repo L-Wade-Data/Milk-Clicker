@@ -1,8 +1,8 @@
-# Milk-Clicker
-A simple incremental idle game 
+A simple incremental idle game: https://github.com/L-Wade-Data/Milk-Clicker
 
-Requirements:
-These three files need to be kept in the same folder:
+Requirements: 
+- This game is intended and was designed to be played on a Windows computer. There may be issues with the GUI when playing on Mac
+- These three files need to be kept in the same folder:
 1. LeonAltherr_Python_04_01_Project_PythonGameDevelopment.ipynb
 2. cow_pic_100x100.png
 3. farm_pic_background_600_600.png
