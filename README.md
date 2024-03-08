@@ -12,10 +12,10 @@ Welcome to Milk Clicker!
 Objective: Click on the cow to collect milk. Use the milk to buy milk maids who will generate milk automatically.
 
 Instructions:
-        - Click the cow image to earn milk.
-        - Accumulate enough milk to buy milk maids and cows from the store.
-        - Milk maids increase your milk production automatically.
-        - Cows increase your milk per click.
-        - Reach milk milestones to unlock achievements!
+- Click the cow image to earn milk.
+- Accumulate enough milk to buy milk maids and cows from the store.
+- Milk maids increase your milk production automatically.
+- Cows increase your milk per click.
+- Reach milk milestones to unlock achievements!
 
 Have fun!
